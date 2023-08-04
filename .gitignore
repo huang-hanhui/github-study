@@ -1,6 +1,9 @@
 # Build and Release Folders
 bin-debug/
 bin-release/
+.idea/
+.vscode/
+node_modules/
 [Oo]bj/
 [Bb]in/
 
